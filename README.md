@@ -1,2 +1,3 @@
 # e-bank.projects
-web-app
+sphamandla mthombeni
+sphamthombeni@gmail.com
